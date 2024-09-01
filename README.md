@@ -5,6 +5,7 @@
 - [Recipe Page - Frontend Mentor Challenge](#recipe-page---frontend-mentor-challenge)
   - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
+  - [Preview](#preview)
   - [Screenshot](#screenshot)
   - [Built With](#built-with)
   - [Features](#features)
@@ -18,6 +19,10 @@
 ## Overview
 
 This is a solution to the [Recipe Page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). The goal of this challenge was to build out a fully responsive recipe page and get it looking as close to the design as possible.
+
+## Preview
+
+You can view the live version of the recipe page [here](https://fawaziwalewa.github.io/recipe-page/). The live preview allows you to experience the fully responsive design and interact with the different sections of the recipe page.
 
 ## Screenshot
 
