@@ -51,7 +51,7 @@ Ensure you have a modern web browser installed.
 1. Clone the repository:
 
     ```sh
-        git clone https://github.com/your-username/recipe-page.git
+        git clone https://github.com/fawaziwalewa/recipe-page.git
     ```
 
 2. Navigate to the project directory:
