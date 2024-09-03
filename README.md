@@ -7,6 +7,7 @@
   - [Overview](#overview)
   - [Preview](#preview)
   - [Screenshot](#screenshot)
+  - [Links](#links)
   - [Built With](#built-with)
   - [Features](#features)
   - [Getting Started](#getting-started)
@@ -27,6 +28,11 @@ You can view the live version of the recipe page [here](https://fawaziwalewa.git
 ## Screenshot
 
 ![Recipe Page Screenshot](assets/images/screenshot.webp)
+
+## Links
+
+- Solution URL: [GitHub Repository](https://github.com/fawaziwalewa/recipe-page)
+- Live Site URL: [Live Demo](https://fawaziwalewa.github.io/recipe-page)
 
 ## Built With
 
