@@ -15,6 +15,7 @@
     - [Installation](#installation)
   - [Usage](#usage)
   - [Design Credit](#design-credit)
+  - [Author](#author)
   - [License](#license)
 
 ## Overview
@@ -75,6 +76,11 @@ Simply open the `index.html` file in your browser to view the recipe page. You c
 ## Design Credit
 
 This design was provided by [Frontend Mentor](https://www.frontendmentor.io) as part of their challenges. The design and idea belong to them, and this project is an implementation based on their guidelines.
+
+## Author
+
+- GitHub - [GitHub Profile](https://github.com/fawaziwalewa)
+- LinkedIn - [LinkedIn Profile](https://linkedin.com/in/fawaz-iwalewa)
 
 ## License
 
